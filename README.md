@@ -1,4 +1,4 @@
-<h1 align="center">Привет! Я <Саша> 👋</h1>
+<h1 align="center">Привет! Я Саша 👋</h1>
 
 ---
 
@@ -8,7 +8,8 @@
 
 Мне нравится разбираться в том, как устроены приложения «внутри»: я изучаю клиент-серверное взаимодействие, умею читать логи и работать с API через Postman. Мои интересы это — устройство backend. Активно изучаю библиотеки по работе с API: FastAPI, Django, а также в будущем планирую изучить автоматизированное тестирование.
 
-- 🎯 **Основная специализация:** Rest API, Postman, Jira, Week
+
+- 🎯 **Основная специализация:** Ручное Тестироваие, Rest API, Postman, Jira, Week
 - 🗄️ **Базы данных:** PostgreSQL
 - 📚 **Сейчас изучаю:** FastAPI, Pytest
 
@@ -20,6 +21,3 @@
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ваш_юзернейм&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
